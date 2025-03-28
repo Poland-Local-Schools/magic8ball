@@ -6,5 +6,3 @@
 #Refer back to the Dragon Realm game we created last week.
 
 #You will need to start with the import random command - follow the worksheet for the code
-
-import random
